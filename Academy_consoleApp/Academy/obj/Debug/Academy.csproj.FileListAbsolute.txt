@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\obj\Debug\Academy.csprojAssemblyReference.cache
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\obj\Debug\Academy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\bin\Debug\Academy.exe.config
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\bin\Debug\Academy.exe
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\bin\Debug\Academy.pdb
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\bin\Debug\Classes.dll
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\bin\Debug\Classes.pdb
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\obj\Debug\Academy.csproj.CopyComplete
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\obj\Debug\Academy.exe
+C:\Users\User\Desktop\sedc\Class 49_Workshop_C#\Academy\Academy\obj\Debug\Academy.pdb

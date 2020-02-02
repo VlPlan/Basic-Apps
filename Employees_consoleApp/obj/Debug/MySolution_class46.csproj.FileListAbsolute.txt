@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\obj\Debug\MySolution_class46.csprojAssemblyReference.cache
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\obj\Debug\MySolution_class46.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\bin\Debug\MySolution_class46.exe.config
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\bin\Debug\MySolution_class46.exe
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\bin\Debug\MySolution_class46.pdb
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\obj\Debug\MySolution_class46.csproj.CopyComplete
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\obj\Debug\MySolution_class46.exe
+C:\Users\User\Desktop\sedc\Class 46\MySolution_class46\MySolution_class46\obj\Debug\MySolution_class46.pdb

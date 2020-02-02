@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\sedc\Class 46\Playlist_Homework\Playlist\Classes\bin\Debug\Classes.dll
+C:\Users\User\Desktop\sedc\Class 46\Playlist_Homework\Playlist\Classes\bin\Debug\Classes.pdb
+C:\Users\User\Desktop\sedc\Class 46\Playlist_Homework\Playlist\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sedc\Class 46\Playlist_Homework\Playlist\Classes\obj\Debug\Classes.dll
+C:\Users\User\Desktop\sedc\Class 46\Playlist_Homework\Playlist\Classes\obj\Debug\Classes.pdb
+C:\Users\User\Desktop\Playlist\Playlist\Classes\bin\Debug\Classes.dll
+C:\Users\User\Desktop\Playlist\Playlist\Classes\bin\Debug\Classes.pdb
+C:\Users\User\Desktop\Playlist\Playlist\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Playlist\Playlist\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Playlist\Playlist\Classes\obj\Debug\Classes.dll
+C:\Users\User\Desktop\Playlist\Playlist\Classes\obj\Debug\Classes.pdb

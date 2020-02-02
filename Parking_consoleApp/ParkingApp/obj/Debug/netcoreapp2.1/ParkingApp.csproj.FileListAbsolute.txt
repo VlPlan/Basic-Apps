@@ -1,0 +1,11 @@
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\obj\Debug\netcoreapp2.1\ParkingApp.csprojAssemblyReference.cache
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\obj\Debug\netcoreapp2.1\ParkingApp.csproj.CoreCompileInputs.cache
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\obj\Debug\netcoreapp2.1\ParkingApp.AssemblyInfoInputs.cache
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\obj\Debug\netcoreapp2.1\ParkingApp.AssemblyInfo.cs
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\bin\Debug\netcoreapp2.1\ParkingApp.deps.json
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\bin\Debug\netcoreapp2.1\ParkingApp.runtimeconfig.json
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\bin\Debug\netcoreapp2.1\ParkingApp.runtimeconfig.dev.json
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\bin\Debug\netcoreapp2.1\ParkingApp.dll
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\bin\Debug\netcoreapp2.1\ParkingApp.pdb
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\obj\Debug\netcoreapp2.1\ParkingApp.dll
+D:\VladP_Apps\CSharp\ConsoleApps\ParkingApp\ParkingApp\obj\Debug\netcoreapp2.1\ParkingApp.pdb
